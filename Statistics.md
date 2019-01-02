@@ -1,5 +1,9 @@
 The Markdown note of Statistics
-[TOC]
+
+- [Statistics](#statistics)
+  * [Frequentist Inference](#frequentist-inference)
+    + [Point Estimation](#point-estimation)
+    + [Confidence Interval](#confidence-interval)
 
 # Statistics
 
