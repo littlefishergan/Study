@@ -1,5 +1,5 @@
 The Markdown note of Statistics
-[TOC]
+{{TOC}}
 
 # Statistics
 
