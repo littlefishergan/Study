@@ -16,17 +16,14 @@ To have a visual understanding please visit [To have a visual understanding plea
 
 ### Point Estimation
 
-Using the estimation of $\pi$ to show the meaning of point estimation:  
+Using the estimation of <a href="https://www.codecogs.com/eqnedit.php?latex=\pi" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\pi" title="\pi" /></a> to show the meaning of point estimation:  
 
-$$
-\begin{matrix}S_{circle} = \pi r^2\\S_{square} = 4r^2\end{matrix} \implies \pi = 4 \frac{S_{circle}}{S_{square}}
-$$
+<a href="https://www.codecogs.com/eqnedit.php?latex=\begin{matrix}S_{circle}&space;=&space;\pi&space;r^2\\S_{square}&space;=&space;4r^2\end{matrix}&space;\implies&space;\pi&space;=&space;4&space;\frac{S_{circle}}{S_{square}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\begin{matrix}S_{circle}&space;=&space;\pi&space;r^2\\S_{square}&space;=&space;4r^2\end{matrix}&space;\implies&space;\pi&space;=&space;4&space;\frac{S_{circle}}{S_{square}}" title="\begin{matrix}S_{circle} = \pi r^2\\S_{square} = 4r^2\end{matrix} \implies \pi = 4 \frac{S_{circle}}{S_{square}}" /></a>
 
 
 The we get:
-$$
-\hat{\pi} = 4 \frac{m}{n}
-$$
+<a href="https://www.codecogs.com/eqnedit.php?latex=\hat{\pi}&space;=&space;4&space;\frac{m}{n}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\hat{\pi}&space;=&space;4&space;\frac{m}{n}" title="\hat{\pi} = 4 \frac{m}{n}" /></a>
+
 Where m and n represents the number of samples in corresponding areas: 
 
 ![to calculate pi](https://raw.githubusercontent.com/littlefishergan/Study/Statistics/pictures/mntopi.png)
