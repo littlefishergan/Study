@@ -1,10 +1,11 @@
 The Markdown note of Statistics
 
+
 - [Statistics](#statistics)
   * [Frequentist Inference](#frequentist-inference)
     + [Point Estimation](#point-estimation)
     + [Confidence Interval](#confidence-interval)
-
+      =======
 # Statistics
 
 In this note some problems in the field of Statistics will be discussed. 
